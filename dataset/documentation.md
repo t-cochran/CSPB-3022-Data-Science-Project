@@ -1,8 +1,8 @@
 MONTH:				Month
 DAY_OF_WEEK:			Day of Week
-DEP_DEL15: 			TARGET Binary of a departure delay over 15 minutes (1 is yes)
+DEP_DEL15: 			    Departure delay over 15 minutes
+DEP_TIME_BLK:			Departure block
 DISTANCE_GROUP:			Distance intervals every 250 miles for flight segment
-DEP_BLOCK:			Departure block
 SEGMENT_NUMBER:			The segment that this tail number is on for the day
 CONCURRENT_FLIGHTS:		Concurrent flights leaving from the airport in the same departure block
 NUMBER_OF_SEATS:		Number of seats on the aircraft
